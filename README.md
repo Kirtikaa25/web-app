@@ -1,6 +1,6 @@
 # Getting Started with Chat-App
 
-#For Backend.
+# For Backend.
 
 Open terminal in folder, Also make sure mongodb is running in background.
 
